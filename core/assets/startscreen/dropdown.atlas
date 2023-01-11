@@ -1,0 +1,69 @@
+
+dropdown.png
+size: 512, 256
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+dd_drop_down_bg
+  rotate: false
+  xy: 2, 62
+  size: 195, 188
+  orig: 195, 188
+  offset: 0, 0
+  index: -1
+dd_form
+  rotate: false
+  xy: 199, 215
+  size: 225, 35
+  orig: 225, 35
+  offset: 0, 0
+  index: -1
+dd_h
+  rotate: false
+  xy: 209, 186
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dd_hover
+  rotate: false
+  xy: 2, 31
+  size: 169, 29
+  orig: 169, 29
+  offset: 0, 0
+  index: -1
+dd_n
+  rotate: false
+  xy: 426, 223
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dd_p
+  rotate: false
+  xy: 2, 2
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+dd_slide_h
+  rotate: false
+  xy: 209, 141
+  size: 8, 43
+  orig: 8, 43
+  offset: 0, 0
+  index: -1
+dd_slide_n
+  rotate: false
+  xy: 209, 96
+  size: 8, 43
+  orig: 8, 43
+  offset: 0, 0
+  index: -1
+dd_slider_rail
+  rotate: false
+  xy: 199, 51
+  size: 8, 162
+  orig: 8, 162
+  offset: 0, 0
+  index: -1

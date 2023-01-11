@@ -1,0 +1,27 @@
+
+jump.png
+size: 512, 64
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+HeroKnight_Jump
+  rotate: false
+  xy: 2, 2
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: 0
+HeroKnight_Jump
+  rotate: false
+  xy: 104, 2
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: 1
+HeroKnight_Jump
+  rotate: false
+  xy: 206, 2
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: 2

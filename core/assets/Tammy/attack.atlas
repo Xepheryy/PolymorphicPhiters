@@ -1,0 +1,40 @@
+attack.png
+size: 250, 37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adventurer-attack1-00
+  rotate: false
+  xy: 0, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-attack1-01
+  rotate: false
+  xy: 50, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-attack1-02
+  rotate: false
+  xy: 100, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-attack1-03
+  rotate: false
+  xy: 150, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-attack1-04
+  rotate: false
+  xy: 200, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1

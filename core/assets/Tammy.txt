@@ -1,0 +1,6 @@
+Tammy/attack.atlas
+Tammy/dead.atlas
+Tammy/idle.atlas
+Tammy/jump.atlas
+Tammy/run.atlas
+Tammy/special.atlas

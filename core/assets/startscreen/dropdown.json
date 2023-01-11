@@ -1,0 +1,30 @@
+{
+  "com.badlogic.gdx.graphics.g2d.BitmapFont": {
+    "varela": {
+      "file": "varela.fnt"
+    },
+    "racoon": {
+      "file": "RaccoonSerif-Medium.fnt" 
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle": {
+    "default": {
+      "vScroll": "dd_slide_n",
+      "hScrollKnob": "dd_n",
+      "background": "dd_drop_down_bg",
+      "hScroll": "dd_slide_n",
+      "vScrollKnob": "dd_n"
+    }
+  },
+  "com.badlogic.gdx.scenes.scene2d.ui.SelectBox$SelectBoxStyle": {
+    "default": {
+      "font": "racoon",
+      "background": "dd_form",
+      "scrollStyle": "default",
+      "listStyle": {
+        "font": "racoon",
+        "selection": "dd_form"
+      }
+    }
+  }
+}

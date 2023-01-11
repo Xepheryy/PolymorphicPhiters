@@ -1,0 +1,6 @@
+Jerry/attack.atlas
+Jerry/dead.atlas
+Jerry/idle.atlas
+Jerry/jump.atlas
+Jerry/run.atlas
+Jerry/special.atlas

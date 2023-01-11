@@ -1,0 +1,104 @@
+
+buttons.png
+size: 256, 512
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+down_h
+  rotate: false
+  xy: 226, 220
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+down_n
+  rotate: false
+  xy: 226, 319
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+down_p
+  rotate: false
+  xy: 226, 253
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+inventory_rail
+  rotate: false
+  xy: 67, 45
+  size: 19, 371
+  orig: 19, 371
+  offset: 0, 0
+  index: -1
+inventry_side_bar
+  rotate: false
+  xy: 2, 40
+  size: 63, 376
+  orig: 63, 376
+  offset: 0, 0
+  index: -1
+normal_button_d
+  rotate: false
+  xy: 88, 289
+  size: 136, 41
+  orig: 136, 41
+  offset: 0, 0
+  index: -1
+normal_button_h
+  rotate: false
+  xy: 88, 332
+  size: 136, 41
+  orig: 136, 41
+  offset: 0, 0
+  index: -1
+normal_button_n
+  rotate: false
+  xy: 88, 246
+  size: 136, 41
+  orig: 136, 41
+  offset: 0, 0
+  index: -1
+normal_button_p
+  rotate: false
+  xy: 88, 375
+  size: 136, 41
+  orig: 136, 41
+  offset: 0, 0
+  index: -1
+slider_h
+  rotate: false
+  xy: 88, 208
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+slider_n
+  rotate: false
+  xy: 2, 2
+  size: 15, 36
+  orig: 15, 36
+  offset: 0, 0
+  index: -1
+up_h
+  rotate: false
+  xy: 226, 352
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+up_n
+  rotate: false
+  xy: 226, 286
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+up_p
+  rotate: false
+  xy: 226, 385
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1

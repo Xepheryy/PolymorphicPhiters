@@ -1,0 +1,54 @@
+death.png
+size: 350, 37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adventurer-die-00
+  rotate: false
+  xy: 0, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-die-01
+  rotate: false
+  xy: 50, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-die-02
+  rotate: false
+  xy: 100, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-die-03
+  rotate: false
+  xy: 150, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-die-04
+  rotate: false
+  xy: 200, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-die-05
+  rotate: false
+  xy: 250, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-die-06
+  rotate: false
+  xy: 300, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1

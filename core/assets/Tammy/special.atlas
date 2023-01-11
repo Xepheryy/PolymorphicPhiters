@@ -1,0 +1,19 @@
+special.png
+size: 100, 37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adventurer-slide-00
+  rotate: false
+  xy: 0, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-slide-01
+  rotate: false
+  xy: 50, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,33 @@
+jump.png
+size: 200, 37
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+adventurer-jump-00
+  rotate: false
+  xy: 0, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-jump-01
+  rotate: false
+  xy: 50, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-jump-02
+  rotate: false
+  xy: 100, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
+adventurer-jump-03
+  rotate: false
+  xy: 150, 0
+  size: 50, 37
+  orig: 50, 37
+  offset: 0, 0
+  index: -1
